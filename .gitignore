@@ -1,0 +1,8 @@
+# ignore venv
+venv/
+
+# ignore vscode
+.vscode/
+
+# ignore all csv
+*.csv
