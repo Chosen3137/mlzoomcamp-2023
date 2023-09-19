@@ -6,3 +6,5 @@ venv/
 
 # ignore all csv
 *.csv
+
+.DS_Store
